@@ -50,7 +50,7 @@ FROM film f;
 SELECT min(length) AS menor_duracion, max(length) AS mayor_duracion 
 FROM film f;
 
-*DUDA*--11. Encuentra lo que costó el antepenúltimo alquiler ordenado por día.
+--11. Encuentra lo que costó el antepenúltimo alquiler ordenado por día.
 
 SELECT *
 FROM rental r 
