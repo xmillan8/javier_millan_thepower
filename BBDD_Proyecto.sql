@@ -10,7 +10,7 @@ SELECT actor_id, first_name, last_name
 FROM actor a 
 WHERE actor_id between 30 and 40;
 
---4. Obtén las películas cuyo idioma coincide con el idioma original.saegfwe
+--4. Obtén las películas cuyo idioma coincide con el idioma original.
 
 SELECT *
 FROM film f
